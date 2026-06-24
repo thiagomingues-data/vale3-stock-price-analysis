@@ -108,6 +108,6 @@ plt.legend()
 plt.grid(True)
 
 # Save figure (recommended for GitHub)
-plt.savefig("C:/Users/thiago/Pictures//vale3_price_analysis.png", dpi=300, bbox_inches="tight")
+plt.savefig("C:/my_stuff/TI/pycharm/unicsul_dados/vale3_price_analysis.png", dpi=300, bbox_inches="tight")
 
 plt.show()
