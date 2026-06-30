@@ -2,7 +2,7 @@
 
 ## 🇧🇷 Português
 
-Este projeto apresenta uma análise exploratória dos preços de fechamento das ações da VALE3 entre novembro de 2024 e fevereiro de 2025.
+Este projeto apresenta uma análise exploratória dos preços de fechamento das ações da VALE3 entre outubro de 2024 e fevereiro de 2025.
 
 Os dados foram tratados utilizando Pandas e analisados por meio de estatísticas descritivas e visualizações desenvolvidas com Matplotlib.
 
@@ -37,7 +37,7 @@ Os dados foram tratados utilizando Pandas e analisados por meio de estatísticas
 
 ## 🇺🇸 English
 
-This project presents an exploratory analysis of VALE3 stock closing prices between November 2024 and February 2025.
+This project presents an exploratory analysis of VALE3 stock closing prices between October 2024 and February 2025.
 
 The dataset was cleaned using Pandas and analyzed through descriptive statistics and visualizations created with Matplotlib.
 
